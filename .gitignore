@@ -1,0 +1,11 @@
+# Only the encrypted index.html is published.
+# These contain the PLAINTEXT itinerary or are local-only — never commit them.
+build.js
+template.html
+verify.js
+probe-images.mjs
+probe2.mjs
+headcheck.mjs
+*.mjs
+.claude/
+node_modules/
